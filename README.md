@@ -8,9 +8,7 @@ Project Overview
 The project is developed using PHP, CSS, JavaScript, and WordPress, and includes the following components:
 
 Static Pages:
-Home Page: https://treatandeat.co.uk
-About Page: https://treatandeat.co.uk/about-us-2
-Dynamic E-commerce Page:
-Shopping Page: https://treatandeat.co.uk/shopping
-Dynamic Post Page:
-Blog Page: https://blog.treatandeat.co.uk
+Home Page: https://treatandeat.co.uk //
+About Page: https://treatandeat.co.uk/about-us-2 //
+Dynamic E-commerce Page: Shopping Page: https://treatandeat.co.uk/shopping //
+Dynamic Post Page: Blog Page: https://blog.treatandeat.co.uk

@@ -49,4 +49,5 @@ Shopping interface (UI simulation)
 User-friendly navigation and layout
 SEO-ready structure
 <br>
-## Website: https://ecommerce.swandesignstudio.tech/
+## Website:
+https://ecommerce.swandesignstudio.tech/

@@ -50,4 +50,30 @@ User-friendly navigation and layout
 SEO-ready structure
 <br>
 ## Website:
-https://ecommerce.swandesignstudio.tech/
+https://ecommerce.swandesignstudio.tech/ <br>
+# Project 4: Swansea Properties – Real Estate Website (Training Project)
+Swansea Properties is a conceptual real estate platform based in Swansea. This project is designed to simulate a modern property listing website, showcasing how real estate businesses present and manage property portfolios online.
+
+The platform focuses on delivering a clean, user-friendly interface for browsing properties, exploring listings, and interacting with dynamic real estate content.
+
+## Project Overview
+
+This is a virtual (training) project created to replicate a real-world property website. It demonstrates the ability to structure and develop a listings-based platform with dynamic content and intuitive navigation.
+
+The project emphasizes usability, layout clarity, and scalable design for property management systems.
+
+## Tech Stack
+PHP
+CSS
+JavaScript
+WordPress
+## Features
+Property listing system with structured layouts
+Dynamic property detail pages
+Responsive design for all devices
+Search-friendly and organized content structure
+Clean UI focused on readability and user experience
+
+## Website: 
+https://properties.swandesignstudio.tech
+

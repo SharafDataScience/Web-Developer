@@ -29,7 +29,7 @@ WordPress
 ## URL
 Home: https://business.swandesignstudio.tech
 
-
+<br><br>
 # Project 3: E-Commerce Website – Training Project
 This project is a conceptual eCommerce website developed to simulate a real online store environment. It is designed to demonstrate practical skills in building scalable, user-friendly, and conversion-focused web applications.
 The platform showcases a complete shopping experience—from browsing products to interacting with dynamic pages—reflecting how modern eCommerce systems operate.<br>
@@ -50,7 +50,8 @@ User-friendly navigation and layout
 SEO-ready structure
 <br>
 ## Website:
-https://ecommerce.swandesignstudio.tech/ <br>
+https://ecommerce.swandesignstudio.tech/ 
+<br><br>
 # Project 4: Swansea Properties – Real Estate Website (Training Project)
 Swansea Properties is a conceptual real estate platform based in Swansea. This project is designed to simulate a modern property listing website, showcasing how real estate businesses present and manage property portfolios online.
 

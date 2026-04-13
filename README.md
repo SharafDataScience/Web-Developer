@@ -30,3 +30,23 @@ WordPress
 Home: https://business.swandesignstudio.tech
 
 
+# Project 3: E-Commerce Website – Training Project
+This project is a conceptual eCommerce website developed to simulate a real online store environment. It is designed to demonstrate practical skills in building scalable, user-friendly, and conversion-focused web applications.
+The platform showcases a complete shopping experience—from browsing products to interacting with dynamic pages—reflecting how modern eCommerce systems operate.<br>
+## Project Overview
+This is a virtual (training) project created for portfolio purposes. It replicates real-world eCommerce functionality, including product listings, dynamic content handling, and user interaction flows.
+The goal of this project is to demonstrate the ability to design and develop an end-to-end online store using modern web technologies.
+## Tech Stack
+PHP
+CSS
+JavaScript
+WordPress
+## Features
+Responsive eCommerce layout
+Product listing and category structure
+Dynamic product pages
+Shopping interface (UI simulation)
+User-friendly navigation and layout
+SEO-ready structure
+<br>
+## Website: https://ecommerce.swandesignstudio.tech/
